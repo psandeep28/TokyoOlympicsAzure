@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "TokyoOlympicsAzure",
+			"path": "."
+		},
+		{
+			"name": "pipeline",
+			"path": "../Downloads/pipeline1_support_live/pipeline"
+		},
+		{
+			"name": "dataset",
+			"path": "../Downloads/pipeline1_support_live/dataset"
+		}
+	],
+	"settings": {}
+}
